@@ -4,12 +4,12 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{0DFC610B-435C-466B-80C3-3CBC8939115B}</ProjectGuid>
+    <ProjectGuid>{C27A04B8-1BA7-44D0-9912-44F52494B55F}</ProjectGuid>
     <ProjectTypeGuids>{EF7E3281-CD33-11D4-8326-00C04FA0CE8D};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>library</OutputType>
     <GenericProcessing>true</GenericProcessing>
-    <RootNamespace>esbtest</RootNamespace>
-    <AssemblyName>esbtest</AssemblyName>
+    <RootNamespace>zz_11</RootNamespace>
+    <AssemblyName>zz_11</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <BpelCompliance>True</BpelCompliance>
   </PropertyGroup>
@@ -69,49 +69,7 @@
   <ItemGroup>
     <Schema Include="Schema1.xsd">
       <TypeName>Schema1</TypeName>
-      <Namespace>esbtest</Namespace>
-      <SubType>Task</SubType>
-    </Schema>
-  </ItemGroup>
-  <ItemGroup>
-    <Schema Include="Schema1 - Copy %282%29.xsd">
-      <SubType>Task</SubType>
-      <TypeName>Schema1_Copy_2_</TypeName>
-      <Namespace>esbtest</Namespace>
-    </Schema>
-  </ItemGroup>
-  <ItemGroup>
-    <Schema Include="Schema1 - Copy %283%29.xsd">
-      <SubType>Task</SubType>
-      <TypeName>Schema1_Copy_3_</TypeName>
-      <Namespace>esbtest</Namespace>
-    </Schema>
-  </ItemGroup>
-  <ItemGroup>
-    <Schema Include="Schema1 - Copy %284%29.xsd">
-      <SubType>Task</SubType>
-      <TypeName>Schema1_Copy_4_</TypeName>
-      <Namespace>esbtest</Namespace>
-    </Schema>
-  </ItemGroup>
-  <ItemGroup>
-    <Schema Include="Schema1 - Copy %285%29.xsd">
-      <SubType>Task</SubType>
-      <TypeName>Schema1_Copy_5_</TypeName>
-      <Namespace>esbtest</Namespace>
-    </Schema>
-  </ItemGroup>
-  <ItemGroup>
-    <Schema Include="Schema1 - Copy %286%29.xsd">
-      <SubType>Task</SubType>
-      <TypeName>Schema1_Copy_6_</TypeName>
-      <Namespace>esbtest</Namespace>
-    </Schema>
-  </ItemGroup>
-  <ItemGroup>
-    <Schema Include="FlatFileSchema1.xsd">
-      <TypeName>FlatFileSchema1</TypeName>
-      <Namespace>esbtest</Namespace>
+      <Namespace>zz_11</Namespace>
       <SubType>Task</SubType>
     </Schema>
   </ItemGroup>
