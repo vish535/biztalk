@@ -74,7 +74,7 @@
     </Schema>
   </ItemGroup>
   <ItemGroup>
-    <Schema Include="Schema1 - Copy %282%29.xsd">
+    <Schema Include="Schema1 hh- Copy %282%29.xsd">
       <SubType>Task</SubType>
       <TypeName>Schema1_Copy_2_</TypeName>
       <Namespace>esbtest</Namespace>
